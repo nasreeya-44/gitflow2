@@ -1,0 +1,3 @@
+name : Nasreeya Paduka
+nickname : Nur
+age : 16 
